@@ -1,0 +1,55 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.userosscache
+
+# Local History for Visual Studio
+.localhistory/
+
+# Files built by Visual Studio
+*.obj
+*.exe
+*.exp
+*.lib
+*.exe.config
+*.dll.config
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage reports
+coverage/
+.coverage
+*.cover
+
+# Environment variables
+.env
+.env.local
